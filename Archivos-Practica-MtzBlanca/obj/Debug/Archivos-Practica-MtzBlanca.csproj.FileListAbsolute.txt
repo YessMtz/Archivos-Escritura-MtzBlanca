@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\bin\Debug\Archivos-Practica-MtzBlanca.exe.config
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\bin\Debug\Archivos-Practica-MtzBlanca.exe
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\bin\Debug\Archivos-Practica-MtzBlanca.pdb
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\obj\Debug\Archivos-Practica-MtzBlanca.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\obj\Debug\Archivos-Practica-MtzBlanca.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\obj\Debug\Archivos-Practica-MtzBlanca.exe
+C:\Users\admin\source\repos\Archivos-Practica-MtzBlanca\obj\Debug\Archivos-Practica-MtzBlanca.pdb
