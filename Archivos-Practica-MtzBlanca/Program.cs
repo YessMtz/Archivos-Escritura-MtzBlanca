@@ -14,10 +14,10 @@ namespace Archivos_Practica_MtzBlanca
         {
             //CAMPOS DE LA CLASE
             public string name, Email;
-            public int Edad;
+            public byte Edad;
 
             //CONSTRUCTOR DE LA CLASE
-            public DatosAlumno(string name, string Email, int Edad)
+            public DatosAlumno(string name, string Email, byte Edad)
             {
                 this.name = name;
                 this.Email = Email;
@@ -51,7 +51,7 @@ namespace Archivos_Practica_MtzBlanca
             Console.WriteLine("Ingresa tu Email: ");
             string email = Console.ReadLine().ToString();
             Console.WriteLine("Ingresa tu Edad: ");
-            int edad = int.Parse(Console.ReadLine());
+            byte edad = byte.Parse(Console.ReadLine());
 
             //GENERADOR DE OBJETO DE CLASE
             DatosAlumno nuevoalumno = new DatosAlumno(texto, email, edad);
